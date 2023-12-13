@@ -13,7 +13,7 @@ def read(fname):
 
 
 setup(
-    name="junitparser",
+    name="ncbi-junitparser",
     version=version,
     description="Manipulates JUnit/xUnit Result XML files",
     long_description=read("README.rst"),

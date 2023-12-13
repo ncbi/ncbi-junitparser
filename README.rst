@@ -1,3 +1,6 @@
+This is a temporary fork to tag and publish an updated copy of junitparser.  It should be removed once the original
+published >3.1.0
+
 junitparser -- Pythonic JUnit/xUnit Result XML Parser
 ======================================================
 
